@@ -86,5 +86,20 @@ search-btn {
 
 .thumbnail {
     width: 400px;
-    height: 227px;
+    height: 300px;
+}
+
+#epicode-logo {
+    width: 45px;
+    height: 45px;
+}
+
+#title {
+    display: flex;
+    margin-top: 10px;
+}
+
+#description {
+    margin-top: 3px;
+    margin-left: 20px;
 }
